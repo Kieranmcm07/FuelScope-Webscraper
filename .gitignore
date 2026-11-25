@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.venv/
+.tools/
+node_modules/
+frontend/dist/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/*
+!data/.gitkeep
+*.log
+*.tsbuildinfo
+.tmp/
+pytest-cache-files-*/
